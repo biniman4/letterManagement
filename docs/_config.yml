@@ -1,0 +1,5 @@
+title: "Letter Management"
+description: "Your site description here"
+baseurl: "" # Leave this empty if you're using a user/organization site
+url: "https://biniman4.github.io/letterManagement/"
+theme: jekyll-theme-minimal # or another theme you like
